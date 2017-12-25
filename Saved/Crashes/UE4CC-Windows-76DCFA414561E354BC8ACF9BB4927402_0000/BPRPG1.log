@@ -1,0 +1,1031 @@
+﻿Log file open, 12/25/17 11:17:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BPRPG1
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1096865718) SRandInit(-1096865718).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.206982
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.25-02.17.31:351][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.25-02.17.31:351][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.25-02.17.31:390][  0]LogInit: Computer: JYD
+[2017.12.25-02.17.31:390][  0]LogInit: User: mapl0
+[2017.12.25-02.17.31:390][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.25-02.17.31:390][  0]LogInit: High frequency timer resolution =2.531249 MHz
+[2017.12.25-02.17.31:390][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.12.25-02.17.31:390][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.25-02.17.31:390][  0]LogMemory: Process Physical Memory: 273.70 MB used, 273.70 MB peak
+[2017.12.25-02.17.31:390][  0]LogMemory: Process Virtual Memory: 270.20 MB used, 270.20 MB peak
+[2017.12.25-02.17.31:390][  0]LogMemory: Physical Memory: 6300.07 MB used,  9956.89 MB free, 16256.95 MB total
+[2017.12.25-02.17.31:390][  0]LogMemory: Virtual Memory: 647.29 MB used,  9956.89 MB free, 134217728.00 MB total
+[2017.12.25-02.17.32:714][  0]LogInit: Using OS detected language (ko-KR).
+[2017.12.25-02.17.32:714][  0]LogInit: Using OS detected locale (ko-KR).
+[2017.12.25-02.17.32:794][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2017.12.25-02.17.33:086][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.25-02.17.36:542][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.25-02.17.37:583][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2017.12.25-02.17.37:583][  0]LogD3D11RHI:       4065/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.12.25-02.17.37:592][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2017.12.25-02.17.37:592][  0]LogD3D11RHI:       128/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.12.25-02.17.37:594][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.25-02.17.37:594][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.25-02.17.37:594][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.25-02.17.37:602][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.25-02.17.37:602][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2017.12.25-02.17.37:602][  0]LogWindows: EnumDisplayDevices:
+[2017.12.25-02.17.37:602][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2017.12.25-02.17.37:604][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2017.12.25-02.17.37:605][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.12.25-02.17.37:607][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.12.25-02.17.37:607][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2017.12.25-02.17.37:607][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.12.25-02.17.37:607][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.12.25-02.17.37:607][  0]LogRHI: Texture pool is 2846 MB (70% of 4065 MB)
+[2017.12.25-02.17.37:644][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.25-02.17.37:728][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.25-02.17.37:732][  0]LogShaderCompilers: Guid format shader working directory is 20 characters bigger than the processId version (D:/Project/Unreal4/BPRPG1/Intermediate/Shaders/WorkingDirectory/14012/).
+[2017.12.25-02.17.37:732][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mapl0/AppData/Local/Temp/UnrealShaderWorkingDir/C9D275794B25FA4787BACDB3D32F83E7/'.
+[2017.12.25-02.17.37:732][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.25-02.17.40:623][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.25-02.17.40:715][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.25-02.17.40:809][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.25-02.17.40:902][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.25-02.17.41:000][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.25-02.17.41:102][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.25-02.17.41:198][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.25-02.17.41:296][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.25-02.17.41:383][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.25-02.17.41:481][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.25-02.17.41:582][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.25-02.17.41:687][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.25-02.17.41:792][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.25-02.17.41:890][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.25-02.17.42:084][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.25-02.17.42:084][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.25-02.17.42:186][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.25-02.17.42:265][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.25-02.17.42:423][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.25-02.17.42:477][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.25-02.17.42:581][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.25-02.17.42:683][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.25-02.17.42:790][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.25-02.17.42:890][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.25-02.17.42:890][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.25-02.17.43:861][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.25-02.17.43:978][  0]LogDerivedDataCache: Loaded boot cache 0.12s 78MB C:/Users/mapl0/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.25-02.17.43:978][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mapl0/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.25-02.17.43:978][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Project/Unreal4/BPRPG1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.25-02.17.43:978][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.25-02.17.43:978][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Project/Unreal4/BPRPG1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.25-02.17.43:979][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.25-02.17.44:012][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.25-02.17.44:025][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mapl0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.25-02.17.44:039][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.25-02.17.44:039][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.25-02.17.44:051][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.25-02.17.44:051][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.25-02.17.44:868][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.25-02.17.45:651][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.25-02.17.45:732][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.25-02.17.45:732][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.25-02.17.45:732][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.25-02.17.45:732][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.25-02.17.45:732][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.25-02.17.45:814][  0]LogNetVersion: BPRPG1 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4133119992)
+[2017.12.25-02.17.46:337][  0]LogAssetRegistry: FAssetRegistry took 0.0278 seconds to start up
+[2017.12.25-02.17.47:709][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.088406 seconds
+[2017.12.25-02.17.47:719][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.25-02.17.47:719][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.25-02.17.47:719][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.25-02.17.47:845][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.25-02.17.55:587][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.25-02.17.55:651][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.25-02.17.56:999][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.25-02.17.57:887][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.25-02.17.57:887][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.25-02.17.58:005][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.25-02.17.58:113][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.25-02.17.59:656][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.25-02.18.00:143][  0]LogOcInput: OculusInput pre-init called
+[2017.12.25-02.18.00:749][  0]LogEngine: Initializing Engine...
+[2017.12.25-02.18.00:753][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.25-02.18.01:285][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.25-02.18.01:285][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.25-02.18.01:538][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.25-02.18.01:594][  0]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-02.18.01:679][  0]LogInit: FAudioDevice initialized.
+[2017.12.25-02.18.01:740][  0]LogDerivedDataCache: Saved boot cache 0.06s 78MB C:/Users/mapl0/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.25-02.18.01:764][  0]LogInit: Texture streaming: Enabled
+[2017.12.25-02.18.02:006][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.25-02.18.02:244][  0]LogInit: Transaction tracking system initialized
+[2017.12.25-02.18.02:852][  0]BlueprintLog: New page: 에디터 로드
+[2017.12.25-02.18.04:668][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2017.12.25-02.18.06:103][  0]LogConsoleResponse: Display: 
+[2017.12.25-02.18.06:867][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.25-02.18.06:867][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.25-02.18.06:867][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.25-02.18.07:179][  0]LogFileCache: Scanning file cache for directory 'D:/Project/Unreal4/BPRPG1/Content/' took 0.03s
+[2017.12.25-02.18.09:313][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.25-02.18.09:313][  0]Cmd: MAP LOAD FILE="D:/Project/Unreal4/BPRPG1/Content/Maps/Step2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.25-02.18.09:319][  0]LightingResults: New page: 라이팅 빌드
+[2017.12.25-02.18.09:398][  0]MapCheck: New page: 맵 체크
+[2017.12.25-02.18.09:398][  0]LightingResults: New page: 라이팅 빌드
+[2017.12.25-02.18.10:388][  0]LogAIModule: Creating AISystem for world Step2
+[2017.12.25-02.18.10:412][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.25-02.18.10:449][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.25-02.18.10:527][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 78.24ms.
+[2017.12.25-02.18.10:527][  0]LogFileHelpers: Loading map 'Step2' took 1.214
+[2017.12.25-02.18.10:628][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2017.12.25-02.18.10:835][  0]LogCollectionManager: Loaded 0 collections in 0.002240 seconds
+[2017.12.25-02.18.10:966][  0]LogFileCache: Scanning file cache for directory 'D:/Project/Unreal4/BPRPG1/Saved/Collections/' took 0.01s
+[2017.12.25-02.18.10:966][  0]LogFileCache: Scanning file cache for directory 'D:/Project/Unreal4/BPRPG1/Content/Developers/mapl0/Collections/' took 0.01s
+[2017.12.25-02.18.10:966][  0]LogFileCache: Scanning file cache for directory 'D:/Project/Unreal4/BPRPG1/Content/Collections/' took 0.01s
+[2017.12.25-02.18.10:966][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.25-02.18.10:979][  0]LogContentBrowser: Native class hierarchy populated in 0.0130 seconds. Added 2363 classes and 519 folders.
+[2017.12.25-02.18.11:104][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.12.25-02.18.11:539][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.12.25-02.18.11:618][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.25-02.18.11:771][  0]LogSlate: Took 0.006578 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.25-02.18.11:783][  0]LogSlate: Took 0.010665 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2017.12.25-02.18.11:789][  0]LogSlate: Took 0.005424 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.25-02.18.11:802][  0]LogSlate: Took 0.006661 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.25-02.18.12:121][  0]LogRenderer: Reallocating scene render targets to support 1080x576 Format 9 NumSamples 1 (Frame:1).
+[2017.12.25-02.18.12:394][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.25-02.18.12:394][  0]LogLoad: (Engine Initialization) Total time: 45.67 seconds
+[2017.12.25-02.18.12:394][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.25-02.18.12:394][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.25-02.18.12:394][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.25-02.18.12:436][  0]LogContentStreaming: Texture pool size now 800 MB
+[2017.12.25-02.18.12:698][  2]LogAssetRegistry: Asset discovery search completed in 26.3828 seconds
+[2017.12.25-02.18.12:702][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.25-02.18.12:702][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000075 seconds (updated 0 objects)
+[2017.12.25-02.18.24:896][649]LogSlate: Took 0.005276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.25-02.18.25:800][649]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-02.18.25:825][649]Cmd: MAP LOAD FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Maps/JYD.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.25-02.18.25:825][649]LightingResults: New page: 라이팅 빌드
+[2017.12.25-02.18.25:826][649]LoadErrors: New page: 맵 로드중: JYD.umap
+[2017.12.25-02.18.25:830][649]MapCheck: New page: 맵 체크
+[2017.12.25-02.18.25:830][649]LightingResults: New page: 라이팅 빌드
+[2017.12.25-02.18.25:850][649]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Share/YD/Maps/YD) is flushing async loading
+[2017.12.25-02.18.25:985][649]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Step3) is flushing async loading
+[2017.12.25-02.18.26:085][649]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.25-02.18.26:136][649]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.25-02.18.26:221][649]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 85.542ms.
+[2017.12.25-02.18.26:223][649]LogFileHelpers: Loading map 'JYD' took 0.400
+[2017.12.25-02.18.33:174][977]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2017.12.25-02.18.34:107][977]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.25-02.18.34:290][977]LogSlate: Took 0.005655 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.25-02.19.10:143][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-02.19.10:197][897]LogSavePackage: Save=40.63ms
+[2017.12.25-02.19.10:197][897]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_Fountain89F968D240622025E09509802377709E.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-02.19.10:205][897]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-02.19.12:524][ 13]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-02.19.12:625][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.25-02.19.12:626][ 13]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 8:19:12)
+[2017.12.25-02.19.12:626][ 13]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-02.19.12:631][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004574s)
+[2017.12.25-02.19.12:631][ 13]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-02.19.12:631][ 13]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2017.12.25-02.19.12:632][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.005698s)
+[2017.12.25-02.19.12:689][ 13]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-02.19.12:811][ 13]LogInit: FAudioDevice initialized.
+[2017.12.25-02.19.13:348][ 13]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-02.19.13:386][ 13]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-11.19.13
+[2017.12.25-02.19.13:387][ 13]LogWorld: Bringing up level for play took: 0.002347
+[2017.12.25-02.19.13:478][ 13]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2017.12.25-02.19.13:481][ 13]LogBlueprintUserMessages: [BP_Fountain3] Hello world
+[2017.12.25-02.19.13:481][ 13]LogBlueprintUserMessages: [BP_Fountain2] Hello world
+[2017.12.25-02.19.13:481][ 13]LogBlueprintUserMessages: [BP_Fountain_722] Hello world
+[2017.12.25-02.19.13:481][ 13]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: 0.173
+[2017.12.25-02.22.47:773][430]LogSlate: Took 0.007490 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.25-02.23.01:920][182]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-02.23.03:195][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-02.23.03:247][193]LogSavePackage: Save=46.70ms
+[2017.12.25-02.23.03:247][193]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_FountainC7B36BF648CA8FA5226387BC96A627F2.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-02.23.03:253][193]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-02.23.05:341][306]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-02.23.05:376][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.25-02.23.05:377][306]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 8:23:05)
+[2017.12.25-02.23.05:377][306]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-02.23.05:380][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003499s)
+[2017.12.25-02.23.05:381][306]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-02.23.05:381][306]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2017.12.25-02.23.05:382][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.004774s)
+[2017.12.25-02.23.05:443][306]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-02.23.05:511][306]LogInit: FAudioDevice initialized.
+[2017.12.25-02.23.05:545][306]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-02.23.05:584][306]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-11.23.05
+[2017.12.25-02.23.05:585][306]LogWorld: Bringing up level for play took: 0.002520
+[2017.12.25-02.23.05:587][306]LogBlueprintUserMessages: [BP_Fountain2] Hello world
+[2017.12.25-02.23.05:588][306]LogBlueprintUserMessages: [BP_Fountain3] Hello world
+[2017.12.25-02.23.05:588][306]LogBlueprintUserMessages: [BP_Fountain_722] Hello world
+[2017.12.25-02.23.05:588][306]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: 0.279
+[2017.12.25-02.23.46:533][230]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-02.23.49:801][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-02.23.49:846][321]LogSavePackage: Save=41.15ms
+[2017.12.25-02.23.49:846][321]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_Fountain5B287A6B4571A840269B8C8A07D4A43B.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-02.23.49:849][321]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-02.23.51:734][401]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-02.23.51:769][401]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.25-02.23.51:769][401]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 8:23:51)
+[2017.12.25-02.23.51:769][401]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-02.23.51:773][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003744s)
+[2017.12.25-02.23.51:774][401]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-02.23.51:774][401]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2017.12.25-02.23.51:774][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.004853s)
+[2017.12.25-02.23.51:835][401]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-02.23.51:904][401]LogInit: FAudioDevice initialized.
+[2017.12.25-02.23.51:936][401]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-02.23.51:971][401]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-11.23.51
+[2017.12.25-02.23.51:972][401]LogWorld: Bringing up level for play took: 0.001646
+[2017.12.25-02.23.51:974][401]LogBlueprintUserMessages: [BP_Fountain2] Hello world
+[2017.12.25-02.23.51:975][401]LogBlueprintUserMessages: [BP_Fountain3] Hello world
+[2017.12.25-02.23.51:975][401]LogBlueprintUserMessages: [BP_Fountain_722] Hello world
+[2017.12.25-02.23.51:975][401]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: 0.667
+[2017.12.25-02.23.59:507][823]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-02.23.59:537][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.25-02.23.59:537][823]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 8:23:59)
+[2017.12.25-02.23.59:537][823]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-02.23.59:541][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003883s)
+[2017.12.25-02.23.59:542][823]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-02.23.59:542][823]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2017.12.25-02.23.59:542][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.004965s)
+[2017.12.25-02.23.59:607][823]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-02.23.59:685][823]LogInit: FAudioDevice initialized.
+[2017.12.25-02.23.59:724][823]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-02.23.59:760][823]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-11.23.59
+[2017.12.25-02.23.59:761][823]LogWorld: Bringing up level for play took: 0.002106
+[2017.12.25-02.23.59:764][823]LogBlueprintUserMessages: [BP_Fountain2] Hello world
+[2017.12.25-02.23.59:764][823]LogBlueprintUserMessages: [BP_Fountain3] Hello world
+[2017.12.25-02.23.59:764][823]LogBlueprintUserMessages: [BP_Fountain_722] Hello world
+[2017.12.25-02.23.59:764][823]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: 0.455
+[2017.12.25-02.24.08:160][316]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-370.71 Y=431.10 Z=0.00 Location: X=255.87 Y=114.63 Z=98.30 Normal: X=0.95 Y=0.30 Z=0.00 PenetrationDepth:0.026 Actor:BP_Fountain3 Component:Body BoneName:None (0 other events since notify)
+[2017.12.25-02.24.11:009][487]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-12.98 Y=-101.57 Z=0.00 Location: X=93.19 Y=264.44 Z=98.30 Normal: X=0.22 Y=0.98 Z=-0.00 PenetrationDepth:0.160 Actor:BP_Fountain3 Component:Body BoneName:None (0 other events since notify)
+[2017.12.25-02.24.13:659][646]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=21.54 Y=27.32 Z=0.00 Location: X=312.56 Y=343.27 Z=98.30 Normal: X=-0.68 Y=-0.74 Z=-0.00 PenetrationDepth:0.058 Actor:BP_Fountain_722 Component:Body BoneName:None (1 other events since notify)
+[2017.12.25-02.24.24:493][296]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-42.39 Y=20.19 Z=0.00 Location: X=769.60 Y=659.22 Z=108.85 Normal: X=0.92 Y=0.38 Z=0.12 PenetrationDepth:1.179 Actor:BP_Fountain_722 Component:Body BoneName:None (0 other events since notify)
+[2017.12.25-02.24.28:660][546]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-44.21 Y=-146.30 Z=0.00 Location: X=279.53 Y=-20.17 Z=98.02 Normal: X=1.00 Y=0.04 Z=-0.00 PenetrationDepth:0.036 Actor:BP_Fountain3 Component:Body BoneName:None (0 other events since notify)
+[2017.12.25-02.24.49:613][702]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-02.24.51:272][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-02.24.51:371][722]LogSavePackage: Save=82.41ms
+[2017.12.25-02.24.51:371][722]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_Fountain2E276FD24B27CED4307FE0B861B6AD67.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-02.24.51:374][722]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-02.24.57:239][878]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-02.24.57:274][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.25-02.24.57:274][878]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 8:24:57)
+[2017.12.25-02.24.57:274][878]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-02.24.57:278][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003794s)
+[2017.12.25-02.24.57:279][878]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-02.24.57:279][878]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2017.12.25-02.24.57:279][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.005080s)
+[2017.12.25-02.24.57:359][878]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-02.24.57:435][878]LogInit: FAudioDevice initialized.
+[2017.12.25-02.24.57:467][878]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-02.24.57:507][878]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-11.24.57
+[2017.12.25-02.24.57:508][878]LogWorld: Bringing up level for play took: 0.001862
+[2017.12.25-02.24.57:511][878]LogBlueprintUserMessages: [BP_Fountain2] Hello world
+[2017.12.25-02.24.57:511][878]LogBlueprintUserMessages: [BP_Fountain3] Hello world
+[2017.12.25-02.24.57:511][878]LogBlueprintUserMessages: [BP_Fountain_722] Hello world
+[2017.12.25-02.24.57:511][878]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: 0.203
+[2017.12.25-02.26.57:196][736]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-02.26.57:225][736]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2017.12.25-02.26.57:228][736]LogPlayLevel: [PlayLevel] Compiling BP_Fountain before play...
+[2017.12.25-02.26.57:967][736]LogPlayLevel: PlayLevel: Blueprint regeneration took 742 ms (1 blueprints)
+[2017.12.25-02.26.57:968][736]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 8:26:57)
+[2017.12.25-02.26.57:968][736]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-02.26.57:972][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003708s)
+[2017.12.25-02.26.57:973][736]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-02.26.57:973][736]LogPlayLevel: PIE: World Init took: (0.001357s)
+[2017.12.25-02.26.57:973][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.005452s)
+[2017.12.25-02.26.58:030][736]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-02.26.58:094][736]LogInit: FAudioDevice initialized.
+[2017.12.25-02.26.58:137][736]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-02.26.58:171][736]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-11.26.58
+[2017.12.25-02.26.58:172][736]LogWorld: Bringing up level for play took: 0.001746
+[2017.12.25-02.26.58:174][736]LogBlueprintUserMessages: [BP_Fountain2] Hello world
+[2017.12.25-02.26.58:174][736]LogBlueprintUserMessages: [BP_Fountain3] Hello world
+[2017.12.25-02.26.58:174][736]LogBlueprintUserMessages: [BP_Fountain_722] Hello world
+[2017.12.25-02.26.58:175][736]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: 0.866
+[2017.12.25-02.27.08:702][  8]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-02.28.47:636][597]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-02.28.49:149][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-02.28.49:201][604]LogSavePackage: Save=47.60ms
+[2017.12.25-02.28.49:201][604]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_Fountain5CDED7B94EA63DF5024A20ABDA57D200.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-02.28.49:204][604]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-02.28.51:039][676]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-02.28.51:070][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.25-02.28.51:071][676]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 8:28:51)
+[2017.12.25-02.28.51:071][676]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-02.28.51:074][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003475s)
+[2017.12.25-02.28.51:075][676]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-02.28.51:075][676]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2017.12.25-02.28.51:075][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.004451s)
+[2017.12.25-02.28.51:171][676]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-02.28.51:236][676]LogInit: FAudioDevice initialized.
+[2017.12.25-02.28.51:273][676]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-02.28.51:307][676]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-11.28.51
+[2017.12.25-02.28.51:308][676]LogWorld: Bringing up level for play took: 0.001527
+[2017.12.25-02.28.51:310][676]LogBlueprintUserMessages: [BP_Fountain2] Hello world
+[2017.12.25-02.28.51:310][676]LogBlueprintUserMessages: [BP_Fountain3] Hello world
+[2017.12.25-02.28.51:310][676]LogBlueprintUserMessages: [BP_Fountain_722] Hello world
+[2017.12.25-02.28.51:310][676]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: 0.002
+[2017.12.25-02.32.34:647][ 24]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2017.12.25-02.32.34:647][ 24]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2017.12.25-02.32.34:647][ 24]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2017.12.25-02.32.34:647][ 24]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2017.12.25-02.32.34:647][ 24]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2017.12.25-02.33.06:665][288]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-02.33.07:972][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-02.33.08:364][299]LogSavePackage: Save=380.79ms
+[2017.12.25-02.33.08:364][299]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_FountainB9D058D24A513AC532D90BAF70B611FB.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-02.33.08:371][299]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-02.33.10:230][389]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-02.33.10:264][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.25-02.33.10:264][389]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 8:33:10)
+[2017.12.25-02.33.10:264][389]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-02.33.10:268][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003467s)
+[2017.12.25-02.33.10:269][389]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-02.33.10:269][389]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2017.12.25-02.33.10:269][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.004726s)
+[2017.12.25-02.33.10:326][389]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-02.33.10:392][389]LogInit: FAudioDevice initialized.
+[2017.12.25-02.33.10:429][389]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-02.33.10:466][389]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-11.33.10
+[2017.12.25-02.33.10:467][389]LogWorld: Bringing up level for play took: 0.001647
+[2017.12.25-02.33.10:470][389]LogBlueprintUserMessages: [BP_Fountain2] Hello world
+[2017.12.25-02.33.10:470][389]LogBlueprintUserMessages: [BP_Fountain3] Hello world
+[2017.12.25-02.33.10:470][389]LogBlueprintUserMessages: [BP_Fountain_722] Hello world
+[2017.12.25-02.33.10:470][389]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: 1.161
+[2017.12.25-02.33.43:218][153]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-02.33.44:583][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-02.33.44:642][165]LogSavePackage: Save=55.26ms
+[2017.12.25-02.33.44:642][165]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_Fountain1E6EB9514BF2774AE50D6F99BAF304D2.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-02.33.44:645][165]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-02.33.46:850][232]LogPlayLevel: Warning: 맵 저장이 취소되어 PIE 가 실패했습니다.
+[2017.12.25-02.33.46:850][232]PIE: Warning: 맵 저장이 취소되어 PIE 가 실패했습니다.
+[2017.12.25-02.33.49:333][306]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-02.33.49:367][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.25-02.33.49:367][306]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 8:33:49)
+[2017.12.25-02.33.49:367][306]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-02.33.49:370][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003098s)
+[2017.12.25-02.33.49:371][306]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-02.33.49:371][306]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2017.12.25-02.33.49:371][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.004165s)
+[2017.12.25-02.33.49:428][306]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-02.33.49:491][306]LogInit: FAudioDevice initialized.
+[2017.12.25-02.33.49:525][306]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-02.33.49:559][306]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-11.33.49
+[2017.12.25-02.33.49:560][306]LogWorld: Bringing up level for play took: 0.001600
+[2017.12.25-02.33.49:563][306]LogBlueprintUserMessages: [BP_Fountain2] Hello world
+[2017.12.25-02.33.49:563][306]LogBlueprintUserMessages: [BP_Fountain3] Hello world
+[2017.12.25-02.33.49:563][306]LogBlueprintUserMessages: [BP_Fountain_722] Hello world
+[2017.12.25-02.33.49:563][306]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: 0.255
+[2017.12.25-02.35.07:330][ 91]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.25-02.35.16:378][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Maps/JYD" FILE="D:/Project/Unreal4/BPRPG1/Saved/Autosaves/Game/Share/JYD/Maps/JYD_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.12.25-02.35.16:456][118]LogSavePackage: Save=67.48ms
+[2017.12.25-02.35.16:456][118]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/JYD_Auto129D4103A47C285E65D459E9CB381CED8.tmp' to 'D:/Project/Unreal4/BPRPG1/Saved/Autosaves/Game/Share/JYD/Maps/JYD_Auto1.umap'
+[2017.12.25-02.35.16:457][118]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Saved/Autosaves/Game/Share/JYD/Maps/JYD_Auto1.umap
+[2017.12.25-02.35.16:462][118]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Share/JYD/Maps/JYD' took 0.105
+[2017.12.25-02.35.16:462][118]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.105
+[2017.12.25-02.54.30:811][156]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-02.54.33:388][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-02.54.33:778][240]LogSavePackage: Save=374.77ms
+[2017.12.25-02.54.33:778][240]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_Fountain400948164902334F98AC89B78DE6C714.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-02.54.33:784][240]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-02.54.35:219][317]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-02.54.35:254][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.25-02.54.35:254][317]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 8:54:35)
+[2017.12.25-02.54.35:254][317]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-02.54.35:258][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004201s)
+[2017.12.25-02.54.35:259][317]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-02.54.35:260][317]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2017.12.25-02.54.35:260][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.005608s)
+[2017.12.25-02.54.35:320][317]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-02.54.35:390][317]LogInit: FAudioDevice initialized.
+[2017.12.25-02.54.35:424][317]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-02.54.35:462][317]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-11.54.35
+[2017.12.25-02.54.35:462][317]LogWorld: Bringing up level for play took: 0.002101
+[2017.12.25-02.54.35:465][317]LogBlueprintUserMessages: [BP_Fountain2] Hello world
+[2017.12.25-02.54.35:465][317]LogBlueprintUserMessages: [BP_Fountain3] Hello world
+[2017.12.25-02.54.35:465][317]LogBlueprintUserMessages: [BP_Fountain_722] Hello world
+[2017.12.25-02.54.35:465][317]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: 0.157
+[2017.12.25-02.55.23:015][ 39]LogSlate: Took 0.008103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.12.25-02.55.39:200][910]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-02.55.42:939][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-02.55.43:009][ 58]LogSavePackage: Save=61.96ms
+[2017.12.25-02.55.43:009][ 58]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_Fountain524D832A40E784C151044AA152D617C7.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-02.55.43:012][ 58]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-02.57.14:005][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Maps/JYD" FILE="D:/Project/Unreal4/BPRPG1/Saved/Autosaves/Game/Share/JYD/Maps/JYD_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.12.25-02.57.14:421][243]LogSavePackage: Save=404.12ms
+[2017.12.25-02.57.14:421][243]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/JYD_Auto2755D9C02442C0DF2B07536AF33050BB6.tmp' to 'D:/Project/Unreal4/BPRPG1/Saved/Autosaves/Game/Share/JYD/Maps/JYD_Auto2.umap'
+[2017.12.25-02.57.14:422][243]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Saved/Autosaves/Game/Share/JYD/Maps/JYD_Auto2.umap
+[2017.12.25-02.57.14:430][243]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Share/JYD/Maps/JYD' took 0.453
+[2017.12.25-02.57.14:430][243]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.453
+[2017.12.25-02.57.14:454][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Share/JYD/Blueprints/BP_Fountain] ([1] browsable assets)...
+[2017.12.25-02.57.14:506][243]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Share/JYD/Blueprints/BP_Fountain.BP_Fountain]
+[2017.12.25-02.57.14:506][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/Share/JYD/Blueprints/BP_Fountain]
+[2017.12.25-02.57.14:506][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Saved/Autosaves/Game/Share/JYD/Blueprints/BP_Fountain_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.12.25-02.57.14:567][243]LogSavePackage: Save=55.32ms
+[2017.12.25-02.57.14:567][243]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_Fountain_Auto2B79F588E42A947FDE5E9399753F9F51F.tmp' to 'D:/Project/Unreal4/BPRPG1/Saved/Autosaves/Game/Share/JYD/Blueprints/BP_Fountain_Auto2.uasset'
+[2017.12.25-02.57.14:568][243]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Saved/Autosaves/Game/Share/JYD/Blueprints/BP_Fountain_Auto2.uasset
+[2017.12.25-02.57.14:568][243]LogFileHelpers: Auto-saving content packages took 0.115
+[2017.12.25-03.09.08:434][983]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-03.09.12:020][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-03.09.12:424][109]LogSavePackage: Save=387.70ms
+[2017.12.25-03.09.12:424][109]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_FountainD4AEE4084CEDCCCBE361D9B5576ADD24.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-03.09.12:430][109]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-03.09.19:363][490]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-03.09.21:293][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-03.09.21:352][531]LogSavePackage: Save=54.35ms
+[2017.12.25-03.09.21:352][531]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_Fountain5B3F0E504D2559450E865FAFD5B62395.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-03.09.21:354][531]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-03.10.49:631][716]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-03.10.50:883][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-03.10.50:943][726]LogSavePackage: Save=55.63ms
+[2017.12.25-03.10.50:943][726]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_FountainEB8706F04D11822654AB0B8B1305EF6F.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-03.10.50:945][726]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-03.10.54:934][898]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-03.10.54:972][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.25-03.10.54:972][898]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 9:10:54)
+[2017.12.25-03.10.54:972][898]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-03.10.54:976][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004060s)
+[2017.12.25-03.10.54:977][898]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-03.10.54:977][898]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2017.12.25-03.10.54:978][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.005584s)
+[2017.12.25-03.10.55:041][898]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-03.10.55:110][898]LogInit: FAudioDevice initialized.
+[2017.12.25-03.10.55:145][898]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-03.10.55:179][898]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-12.10.55
+[2017.12.25-03.10.55:179][898]LogWorld: Bringing up level for play took: 0.001638
+[2017.12.25-03.10.55:185][898]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: -0.124
+[2017.12.25-03.11.24:622][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Maps/JYD" FILE="D:/Project/Unreal4/BPRPG1/Saved/Autosaves/Game/Share/JYD/Maps/JYD_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.12.25-03.11.24:699][399]LogSavePackage: Save=64.51ms
+[2017.12.25-03.11.24:699][399]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/JYD_Auto361A9247947683EF3CD5B3B979DAB7392.tmp' to 'D:/Project/Unreal4/BPRPG1/Saved/Autosaves/Game/Share/JYD/Maps/JYD_Auto3.umap'
+[2017.12.25-03.11.24:699][399]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Saved/Autosaves/Game/Share/JYD/Maps/JYD_Auto3.umap
+[2017.12.25-03.11.24:705][399]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Share/JYD/Maps/JYD' took 0.106
+[2017.12.25-03.11.24:705][399]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.106
+[2017.12.25-03.11.48:719][682]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-03.11.50:033][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-03.11.50:136][687]LogSavePackage: Save=64.56ms
+[2017.12.25-03.11.50:136][687]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_FountainF1224CAD42C5FE014A6B548C92CB78E3.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-03.11.50:139][687]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-03.11.51:918][784]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-03.11.51:954][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.25-03.11.51:954][784]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 9:11:51)
+[2017.12.25-03.11.51:954][784]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-03.11.51:957][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003218s)
+[2017.12.25-03.11.51:959][784]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-03.11.51:959][784]LogPlayLevel: PIE: World Init took: (0.001778s)
+[2017.12.25-03.11.51:960][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.005717s)
+[2017.12.25-03.11.52:026][784]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-03.11.52:112][784]LogInit: FAudioDevice initialized.
+[2017.12.25-03.11.52:146][784]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-03.11.52:189][784]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-12.11.52
+[2017.12.25-03.11.52:189][784]LogWorld: Bringing up level for play took: 0.001734
+[2017.12.25-03.11.52:192][784]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: 0.884
+[2017.12.25-03.12.12:454][927]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-03.12.13:696][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-03.12.13:761][936]LogSavePackage: Save=59.80ms
+[2017.12.25-03.12.13:761][936]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_Fountain42270AD84A4C49290893DBB3B6B52AC2.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-03.12.13:764][936]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-03.12.15:330][ 23]LogEditorViewport: Clicking Background
+[2017.12.25-03.12.17:899][163]LogEditorViewport: Clicking on Actor (LMB): BP_Fountain_C (BP_Fountain3)
+[2017.12.25-03.12.22:474][424]LogEditorViewport: Clicking on Actor (LMB): BP_Fountain_C (BP_Fountain2)
+[2017.12.25-03.12.24:789][552]LogEditorViewport: Clicking on Actor (LMB): BP_Fountain_C (BP_Fountain)
+[2017.12.25-03.12.30:057][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Maps/JYD" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Maps/JYD.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.25-03.12.30:159][761]LogSavePackage: Save=76.61ms
+[2017.12.25-03.12.30:159][761]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/JYDDB558352498DA915D40BF795CE0A0B16.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Maps/JYD.umap'
+[2017.12.25-03.12.30:167][761]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Maps/JYD.umap
+[2017.12.25-03.12.30:207][761]LogFileHelpers: Saving map 'JYD' took 0.253
+[2017.12.25-03.12.30:797][785]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-03.12.30:829][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.25-03.12.30:829][785]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 9:12:30)
+[2017.12.25-03.12.30:829][785]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-03.12.30:834][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004685s)
+[2017.12.25-03.12.30:835][785]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-03.12.30:835][785]LogPlayLevel: PIE: World Init took: (0.001293s)
+[2017.12.25-03.12.30:835][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.006306s)
+[2017.12.25-03.12.30:891][785]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-03.12.30:956][785]LogInit: FAudioDevice initialized.
+[2017.12.25-03.12.30:987][785]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-03.12.31:022][785]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-12.12.31
+[2017.12.25-03.12.31:022][785]LogWorld: Bringing up level for play took: 0.001793
+[2017.12.25-03.12.31:025][785]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: -0.283
+[2017.12.25-03.14.43:461][146]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-03.14.44:784][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-03.14.44:854][161]LogSavePackage: Save=57.90ms
+[2017.12.25-03.14.44:854][161]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_Fountain5E57F8CA47350D35D0B0A696DF9B8246.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-03.14.44:856][161]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-03.14.47:416][306]LogEditorViewport: Clicking Background
+[2017.12.25-03.14.48:675][381]LogEditorViewport: Clicking on Actor (LMB): BP_Fountain_C (BP_Fountain3)
+[2017.12.25-03.16.31:748][623]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-03.16.33:325][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-03.16.33:392][647]LogSavePackage: Save=61.75ms
+[2017.12.25-03.16.33:392][647]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_FountainAFC89E494E29C6B91113A6BE57BC1328.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-03.16.33:394][647]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-03.16.38:070][899]LogEditorViewport: Clicking on Actor (LMB): BP_Fountain_C (BP_Fountain3)
+[2017.12.25-03.16.42:804][171]LogEditorViewport: Clicking on Actor (LMB): BP_Fountain_C (BP_Fountain2)
+[2017.12.25-03.16.43:643][218]LogEditorViewport: Clicking on Actor (LMB): BP_Fountain_C (BP_Fountain)
+[2017.12.25-03.16.46:606][377]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-03.16.46:644][377]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.25-03.16.46:644][377]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 9:16:46)
+[2017.12.25-03.16.46:644][377]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-03.16.46:648][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003353s)
+[2017.12.25-03.16.46:649][377]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-03.16.46:649][377]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2017.12.25-03.16.46:649][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.004723s)
+[2017.12.25-03.16.46:709][377]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-03.16.46:773][377]LogInit: FAudioDevice initialized.
+[2017.12.25-03.16.46:811][377]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-03.16.46:846][377]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-12.16.46
+[2017.12.25-03.16.46:846][377]LogWorld: Bringing up level for play took: 0.002060
+[2017.12.25-03.16.46:849][377]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: -0.459
+[2017.12.25-03.16.52:026][674]Cmd: SELECT NONE
+[2017.12.25-03.16.54:428][812]LogEditorViewport: Clicking on Actor (LMB): BP_Fountain_C (BP_Fountain3)
+[2017.12.25-03.16.56:807][936]LogEditorViewport: Clicking on Actor (LMB): BP_Fountain_C (BP_Fountain2)
+[2017.12.25-03.16.58:773][ 44]LogEditorViewport: Clicking on Actor (LMB): BP_Fountain_C (BP_Fountain)
+[2017.12.25-03.17.00:975][157]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-03.17.01:007][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.25-03.17.01:007][157]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 9:17:01)
+[2017.12.25-03.17.01:007][157]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-03.17.01:011][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003410s)
+[2017.12.25-03.17.01:012][157]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-03.17.01:012][157]LogPlayLevel: PIE: World Init took: (0.001189s)
+[2017.12.25-03.17.01:012][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.004957s)
+[2017.12.25-03.17.01:078][157]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-03.17.01:157][157]LogInit: FAudioDevice initialized.
+[2017.12.25-03.17.01:197][157]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-03.17.01:236][157]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-12.17.01
+[2017.12.25-03.17.01:236][157]LogWorld: Bringing up level for play took: 0.002172
+[2017.12.25-03.17.01:239][157]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: -0.069
+[2017.12.25-03.17.20:327][200]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-03.17.21:646][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-03.17.21:736][211]LogSavePackage: Save=84.48ms
+[2017.12.25-03.17.21:736][211]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_Fountain3866089D4F574AC4F3A1CAAB5857217C.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-03.17.21:740][211]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-03.17.35:111][673]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-03.17.35:148][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.25-03.17.35:148][673]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 9:17:35)
+[2017.12.25-03.17.35:148][673]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-03.17.35:152][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003592s)
+[2017.12.25-03.17.35:153][673]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-03.17.35:154][673]LogPlayLevel: PIE: World Init took: (0.001636s)
+[2017.12.25-03.17.35:154][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.005571s)
+[2017.12.25-03.17.35:211][673]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-03.17.35:276][673]LogInit: FAudioDevice initialized.
+[2017.12.25-03.17.35:314][673]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-03.17.35:348][673]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-12.17.35
+[2017.12.25-03.17.35:348][673]LogWorld: Bringing up level for play took: 0.001583
+[2017.12.25-03.17.35:351][673]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: 0.043
+[2017.12.25-03.18.03:653][242]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-03.18.04:881][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-03.18.04:952][253]LogSavePackage: Save=63.90ms
+[2017.12.25-03.18.04:952][253]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_FountainE098DA6043256D33C6A8F68CDDF73C93.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-03.18.04:954][253]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-03.18.14:394][808]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-03.18.14:433][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.25-03.18.14:433][808]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 9:18:14)
+[2017.12.25-03.18.14:433][808]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-03.18.14:436][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003311s)
+[2017.12.25-03.18.14:437][808]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-03.18.14:437][808]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2017.12.25-03.18.14:437][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.004356s)
+[2017.12.25-03.18.14:493][808]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-03.18.14:556][808]LogInit: FAudioDevice initialized.
+[2017.12.25-03.18.14:590][808]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-03.18.14:623][808]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-12.18.14
+[2017.12.25-03.18.14:624][808]LogWorld: Bringing up level for play took: 0.001657
+[2017.12.25-03.18.14:627][808]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: -0.681
+[2017.12.25-03.19.00:001][928]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-03.19.01:221][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-03.19.01:288][939]LogSavePackage: Save=61.36ms
+[2017.12.25-03.19.01:288][939]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_Fountain9008166449933590C5F3AA96B59DE269.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-03.19.01:294][939]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-03.19.03:018][ 29]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-03.19.03:054][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.25-03.19.03:054][ 29]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 9:19:03)
+[2017.12.25-03.19.03:054][ 29]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-03.19.03:058][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004016s)
+[2017.12.25-03.19.03:059][ 29]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-03.19.03:059][ 29]LogPlayLevel: PIE: World Init took: (0.000976s)
+[2017.12.25-03.19.03:059][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.005326s)
+[2017.12.25-03.19.03:116][ 29]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-03.19.03:179][ 29]LogInit: FAudioDevice initialized.
+[2017.12.25-03.19.03:213][ 29]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-03.19.03:247][ 29]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-12.19.03
+[2017.12.25-03.19.03:248][ 29]LogWorld: Bringing up level for play took: 0.001569
+[2017.12.25-03.19.03:250][ 29]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: -0.058
+[2017.12.25-03.19.09:582][399]LogEditorViewport: Clicking on Actor (LMB): BP_Fountain_C (BP_Fountain2)
+[2017.12.25-03.19.12:256][554]LogEditorViewport: Clicking on Actor (LMB): BP_Fountain_C (BP_Fountain)
+[2017.12.25-03.19.13:834][644]LogEditorViewport: Clicking on Actor (LMB): BP_Fountain_C (BP_Fountain3)
+[2017.12.25-03.19.15:554][739]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-03.19.15:579][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.25-03.19.15:579][739]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 9:19:15)
+[2017.12.25-03.19.15:579][739]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-03.19.15:582][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003056s)
+[2017.12.25-03.19.15:583][739]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-03.19.15:583][739]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2017.12.25-03.19.15:584][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.004314s)
+[2017.12.25-03.19.15:640][739]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-03.19.15:703][739]LogInit: FAudioDevice initialized.
+[2017.12.25-03.19.15:734][739]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-03.19.15:767][739]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-12.19.15
+[2017.12.25-03.19.15:768][739]LogWorld: Bringing up level for play took: 0.001599
+[2017.12.25-03.19.15:771][739]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: 0.462
+[2017.12.25-03.19.41:417][895]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-03.19.42:518][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-03.19.42:586][901]LogSavePackage: Save=62.87ms
+[2017.12.25-03.19.42:586][901]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_Fountain073D8A9C434A462AA8C86E9BEBFD3B7F.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-03.19.42:589][901]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-03.19.44:226][979]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-03.19.44:272][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.25-03.19.44:272][979]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 9:19:44)
+[2017.12.25-03.19.44:272][979]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-03.19.44:276][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003387s)
+[2017.12.25-03.19.44:277][979]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-03.19.44:277][979]LogPlayLevel: PIE: World Init took: (0.001219s)
+[2017.12.25-03.19.44:278][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.005060s)
+[2017.12.25-03.19.44:338][979]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-03.19.44:407][979]LogInit: FAudioDevice initialized.
+[2017.12.25-03.19.44:443][979]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-03.19.44:477][979]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-12.19.44
+[2017.12.25-03.19.44:478][979]LogWorld: Bringing up level for play took: 0.001702
+[2017.12.25-03.19.44:480][979]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: 1.172
+[2017.12.25-03.19.58:765][731]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-03.19.59:715][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-03.19.59:808][732]LogSavePackage: Save=81.89ms
+[2017.12.25-03.19.59:808][732]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_Fountain3145A0534327682AE55025ACB4B57D8C.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-03.19.59:810][732]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-03.23.16:604][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Maps/JYD" FILE="D:/Project/Unreal4/BPRPG1/Saved/Autosaves/Game/Share/JYD/Maps/JYD_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.12.25-03.23.16:689][775]LogSavePackage: Save=72.18ms
+[2017.12.25-03.23.16:689][775]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/JYD_Auto49BC8A6AC45F6B34B85C79C8F6BA91F89.tmp' to 'D:/Project/Unreal4/BPRPG1/Saved/Autosaves/Game/Share/JYD/Maps/JYD_Auto4.umap'
+[2017.12.25-03.23.16:690][775]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Saved/Autosaves/Game/Share/JYD/Maps/JYD_Auto4.umap
+[2017.12.25-03.23.16:696][775]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Share/JYD/Maps/JYD' took 0.118
+[2017.12.25-03.23.16:696][775]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.118
+[2017.12.25-03.34.11:724][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BPS_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BPS_Fountain.uasset" SILENT=true
+[2017.12.25-03.34.11:735][883]LogSavePackage: Save=8.35ms
+[2017.12.25-03.34.11:735][883]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BPS_FountainE539EB824541DBB8629DEBAB90AFD210.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BPS_Fountain.uasset'
+[2017.12.25-03.34.11:741][883]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BPS_Fountain.uasset
+[2017.12.25-03.34.11:845][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Maps/JYD" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Maps/JYD.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.25-03.34.11:947][883]LogSavePackage: Save=69.67ms
+[2017.12.25-03.34.11:948][883]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/JYD1F53854D47604FE3203303B31CCA7A08.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Maps/JYD.umap'
+[2017.12.25-03.34.11:951][883]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Maps/JYD.umap
+[2017.12.25-03.34.11:996][883]LogFileHelpers: Saving map 'JYD' took 0.250
+[2017.12.25-03.34.46:476][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BPS_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BPS_Fountain.uasset" SILENT=true
+[2017.12.25-03.34.46:517][742]LogSavePackage: Save=33.75ms
+[2017.12.25-03.34.46:517][742]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BPS_FountainBF313AC34376CDE45FF28FA821433BAF.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BPS_Fountain.uasset'
+[2017.12.25-03.34.46:520][742]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BPS_Fountain.uasset
+[2017.12.25-03.34.55:299][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BPS_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BPS_Fountain.uasset" SILENT=true
+[2017.12.25-03.34.55:311][958]LogSavePackage: Save=7.94ms
+[2017.12.25-03.34.55:311][958]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BPS_Fountain570011B7462893F5B2C1CAB5ED1545BC.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BPS_Fountain.uasset'
+[2017.12.25-03.34.55:312][958]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BPS_Fountain.uasset
+[2017.12.25-03.35.45:171][474]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-03.35.46:644][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-03.35.46:719][496]LogSavePackage: Save=63.27ms
+[2017.12.25-03.35.46:719][496]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_Fountain65D4126642974E129CCC5E81F99E7C29.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-03.35.46:721][496]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-03.36.40:075][138]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-03.36.41:338][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-03.36.41:406][146]LogSavePackage: Save=63.32ms
+[2017.12.25-03.36.41:406][146]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_Fountain16CACAF7422A904DA3A1E6B6F4507524.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-03.36.41:409][146]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-03.36.49:776][568]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-03.36.51:250][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-03.36.51:320][584]LogSavePackage: Save=65.07ms
+[2017.12.25-03.36.51:320][584]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_Fountain88E4B6074FA95EE147AE138323574390.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-03.36.51:323][584]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-03.36.53:263][682]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-03.36.53:309][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.25-03.36.53:309][682]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 9:36:53)
+[2017.12.25-03.36.53:310][682]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-03.36.53:314][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004062s)
+[2017.12.25-03.36.53:314][682]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-03.36.53:315][682]LogPlayLevel: PIE: World Init took: (0.001006s)
+[2017.12.25-03.36.53:315][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.005454s)
+[2017.12.25-03.36.53:371][682]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-03.36.53:437][682]LogInit: FAudioDevice initialized.
+[2017.12.25-03.36.53:474][682]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-03.36.53:509][682]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-12.36.53
+[2017.12.25-03.36.53:509][682]LogWorld: Bringing up level for play took: 0.002193
+[2017.12.25-03.36.53:512][682]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: 0.204
+[2017.12.25-03.37.01:593][149]LogEditorViewport: Clicking on Actor (LMB): BP_Fountain_C (BP_Fountain)
+[2017.12.25-03.37.12:295][719]LogEditorViewport: Clicking on Actor (LMB): BP_Fountain_C (BP_Fountain2)
+[2017.12.25-03.37.14:325][824]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-03.37.14:353][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.25-03.37.14:353][824]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 9:37:14)
+[2017.12.25-03.37.14:353][824]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-03.37.14:357][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003676s)
+[2017.12.25-03.37.14:358][824]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-03.37.14:358][824]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2017.12.25-03.37.14:358][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.004968s)
+[2017.12.25-03.37.14:420][824]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-03.37.14:487][824]LogInit: FAudioDevice initialized.
+[2017.12.25-03.37.14:524][824]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-03.37.14:558][824]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-12.37.14
+[2017.12.25-03.37.14:559][824]LogWorld: Bringing up level for play took: 0.001644
+[2017.12.25-03.37.14:561][824]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: -0.747
+[2017.12.25-03.38.37:116][655]LogEditorViewport: Clicking on Actor (LMB): BP_Fountain_C (BP_Fountain3)
+[2017.12.25-03.41.22:500][401]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-03.41.23:702][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-03.41.24:093][411]LogSavePackage: Save=376.07ms
+[2017.12.25-03.41.24:093][411]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_FountainFFC387E64AA07ABB94A21E9AA4878E0A.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-03.41.24:096][411]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-03.41.37:750][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BPS_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BPS_Fountain.uasset" SILENT=true
+[2017.12.25-03.41.37:764][108]LogSavePackage: Save=7.60ms
+[2017.12.25-03.41.37:764][108]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BPS_FountainE23F96C847E95B4B2EAB70A7B04432C6.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BPS_Fountain.uasset'
+[2017.12.25-03.41.37:766][108]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BPS_Fountain.uasset
+[2017.12.25-03.42.12:605][770]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-03.42.13:936][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-03.42.14:009][778]LogSavePackage: Save=68.19ms
+[2017.12.25-03.42.14:009][778]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_Fountain1C44452649E72BF82FA3BBA6FD715A45.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-03.42.14:011][778]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-03.42.17:337][946]LogEditorViewport: Clicking on Actor (LMB): BP_Fountain_C (BP_Fountain)
+[2017.12.25-03.42.19:417][ 55]LogEditorViewport: Clicking on Actor (LMB): BP_Fountain_C (BP_Fountain2)
+[2017.12.25-03.42.26:978][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Maps/JYD" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Maps/JYD.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.25-03.42.27:084][311]LogSavePackage: Save=71.98ms
+[2017.12.25-03.42.27:084][311]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/JYD9CD7942D448CC7DB3B0003BC83E655D2.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Maps/JYD.umap'
+[2017.12.25-03.42.27:086][311]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Maps/JYD.umap
+[2017.12.25-03.42.27:131][311]LogFileHelpers: Saving map 'JYD' took 0.256
+[2017.12.25-03.42.27:732][326]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-03.42.27:769][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.25-03.42.27:769][326]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 9:42:27)
+[2017.12.25-03.42.27:769][326]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-03.42.27:773][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003505s)
+[2017.12.25-03.42.27:773][326]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-03.42.27:774][326]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2017.12.25-03.42.27:774][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.004901s)
+[2017.12.25-03.42.27:832][326]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-03.42.27:897][326]LogInit: FAudioDevice initialized.
+[2017.12.25-03.42.27:931][326]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-03.42.27:964][326]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-12.42.27
+[2017.12.25-03.42.27:965][326]LogWorld: Bringing up level for play took: 0.001642
+[2017.12.25-03.42.27:967][326]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: 0.659
+[2017.12.25-03.44.38:367][177]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-03.44.39:631][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-03.44.39:705][186]LogSavePackage: Save=69.36ms
+[2017.12.25-03.44.39:705][186]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_Fountain31E4AE0E47F60D285346D2A41DAE4D4B.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-03.44.39:707][186]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-03.44.46:413][462]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.12.25-03.44.46:447][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.25-03.44.46:448][462]PIE: New page: PIE 세션: JYD (2017. 12. 25. 오후 9:44:46)
+[2017.12.25-03.44.46:448][462]LogPlayLevel: Creating play world package: /Game/Share/JYD/Maps/UEDPIE_0_JYD
+[2017.12.25-03.44.46:452][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004279s)
+[2017.12.25-03.44.46:453][462]LogAIModule: Creating AISystem for world JYD
+[2017.12.25-03.44.46:454][462]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2017.12.25-03.44.46:454][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Share/JYD/Maps/JYD.JYD to /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD (0.005695s)
+[2017.12.25-03.44.46:510][462]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-03.44.46:576][462]LogInit: FAudioDevice initialized.
+[2017.12.25-03.44.46:612][462]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.25-03.44.46:653][462]LogWorld: Bringing World /Game/Share/JYD/Maps/UEDPIE_0_JYD.JYD up for play (max tick rate 60) at 2017.12.25-12.44.46
+[2017.12.25-03.44.46:654][462]LogWorld: Bringing up level for play took: 0.001671
+[2017.12.25-03.44.46:657][462]PIE: /Game/Share/JYD/Maps/UEDPIE_0_JYD 에 대한 에디터에서 플레이 시작 시간: -0.652
+[2017.12.25-03.47.30:635][886]BlueprintLog: New page: BP_Fountain 컴파일
+[2017.12.25-03.47.32:049][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Share/JYD/Blueprints/BP_Fountain" FILE="D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset" SILENT=true
+[2017.12.25-03.47.32:143][892]LogSavePackage: Save=82.40ms
+[2017.12.25-03.47.32:143][892]LogSavePackage: Moving 'D:/Project/Unreal4/BPRPG1/Saved/BP_Fountain7F6DAB284D5202F5FB9F74AA800E01B5.tmp' to 'D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset'
+[2017.12.25-03.47.32:146][892]LogSavePackage: Display: Finished SavePackage D:/Project/Unreal4/BPRPG1/Content/Share/JYD/Blueprints/BP_Fountain.uasset
+[2017.12.25-03.49.29:934][316]Cmd: TRANSACTION UNDO
+[2017.12.25-03.49.29:934][316]LogEditorTransaction: Undo 수명 편집
+[2017.12.25-03.49.36:008][475]LogWorld: --- Actors Currently in /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel ---
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.WorldSettings_1
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.Brush_1
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.LightSource
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.PlayerStart
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.InstancedFoliageActor_0
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.AtmosphericFog_1
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.SkySphere
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.SM_SQUARE
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.SkyLight_1
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.SM_Plains_Angel_Statue_01_5
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.SM_Plains_Grass01_2
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.SM_Plains_Grass2
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.SM_Plains_Grass3
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.SM_Plains_Grass4
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.SM_Plains_Grass5
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.SM_Plains_Flowers02_9
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.SM_Plains_Flowers03_12
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.SM_Plains_Flowers01_15
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.SM_Plains_Flowers2
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.SM_Plains_Fern04_19
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.SM_Plains_Fern03_22
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.DefaultPhysicsVolume_0
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.AbstractNavData-Default
+[2017.12.25-03.49.36:008][475]LogWorld:   NONE
+[2017.12.25-03.49.36:008][475]LogWorld:   NONE
+[2017.12.25-03.49.36:008][475]LogWorld:   NONE
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.BP_Fountain2
+[2017.12.25-03.49.36:008][475]LogWorld:   NONE
+[2017.12.25-03.49.36:008][475]LogWorld:   /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.BP_Fountain_722
+[2017.12.25-03.49.36:673][475]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.664 s
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: === Handled ensure: ===
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: 
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Engine\Private\World.cpp] [Line: 1544]
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: Could not remove actor /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel.BP_Fountain3 from world (check level is /Game/Share/JYD/Maps/JYD.JYD:PersistentLevel)
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: Stack: 
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: [Callstack] 0x0000000057162786 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: [Callstack] 0x0000000056F0123A UE4Editor-Core.dll!UnknownFunction []
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: [Callstack] 0x0000000056F1B906 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: [Callstack] 0x000000004628DF86 UE4Editor-Engine.dll!UnknownFunction []
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: [Callstack] 0x0000000045928C15 UE4Editor-Engine.dll!UnknownFunction []
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: [Callstack] 0x000000004508B9F4 UE4Editor-Engine.dll!UnknownFunction []
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: [Callstack] 0x000000004615D500 UE4Editor-Engine.dll!UnknownFunction []
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: [Callstack] 0x00000000461B40AC UE4Editor-Engine.dll!UnknownFunction []
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: [Callstack] 0x0000000045A071BC UE4Editor-Engine.dll!UnknownFunction []
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: [Callstack] 0x0000000043BE5AA3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: [Callstack] 0x0000000044494AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: [Callstack] 0x00000000A76E5A26 UE4Editor.exe!UnknownFunction []
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: [Callstack] 0x00000000A76F5430 UE4Editor.exe!UnknownFunction []
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: [Callstack] 0x00000000A76F54AA UE4Editor.exe!UnknownFunction []
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: [Callstack] 0x00000000A7702379 UE4Editor.exe!UnknownFunction []
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: [Callstack] 0x00000000A7703D57 UE4Editor.exe!UnknownFunction []
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: [Callstack] 0x00000000927A2774 KERNEL32.DLL!UnknownFunction []
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: [Callstack] 0x0000000094900D51 ntdll.dll!UnknownFunction []
+[2017.12.25-03.49.36:673][475]LogOutputDevice: Error: 
+[2017.12.25-03.49.36:679][475]LogStats:                SubmitErrorReport -  0.000 s
